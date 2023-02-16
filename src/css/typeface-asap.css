@@ -1,0 +1,11 @@
+
+/* asap-900italic - latin */
+@font-face {
+  font-family: "Asap";
+  font-style: italic;
+  font-weight: 900;
+  src:
+    local(''),
+    url('~@fontsource/asap/files/asap-latin-900-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('~@fontsource/asap/files/asap-latin-900-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
